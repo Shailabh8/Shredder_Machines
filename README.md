@@ -9,7 +9,7 @@
  
  # Data Preprcoessing Techniques used
  
- 1. ✔ Data augmentation strategies followed by image annotation. Data augmentation consists of image rotations, contrast, and color adjustments, lightning variations,      random erasing, etc.
+ 1.Data augmentation strategies followed by image annotation. Data augmentation consists of image rotations, contrast, and color adjustments, lightning variations,      random erasing, etc.
  2. Then all the images are made of identical size.
  3. Then image annotation id done.
  
